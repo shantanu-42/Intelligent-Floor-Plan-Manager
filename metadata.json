@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Floor Plan Manager",
+  "description": "A React-based implementation of the Intelligent Floor Plan Management System. Features offline-first architecture for admins, conflict resolution for concurrent updates, and an optimized meeting room recommendation engine.",
+  "requestFramePermissions": []
+}
